@@ -1,5 +1,12 @@
 # amusement
-Hi everyone this was my project for amusement park using spring-boot and database configration.
-we have made use of 4 entities and also the concept of abstraction in making the project.
-here user can book a ticket,update the date for a ticket and also view all activites in the park.
-Admin can view ,add,delete all activites and customers
+Hi everyone! 🚀 This was my project on an Amusement Park Management System built using Spring Boot with proper database configuration.
+We implemented 4 core entities and applied OOP concepts like abstraction to keep the design clean and modular.
+
+🔹 User Features:
+Book tickets 🎟️
+Update ticket dates 📅
+View all available park activities 🎡
+🔹 Admin Features:
+View, add, and delete activities 🏗️
+Manage customer records 👥
+This project really helped me strengthen my understanding of Spring Boot, database integration, and OOP principles in a real-world scenario.
